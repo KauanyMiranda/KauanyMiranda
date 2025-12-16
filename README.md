@@ -5,7 +5,7 @@
 </div>
 
 <div align="center" width="100%">
-  <img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&color=4B0082&width=435&lines=Oi%2C+meu+nome+%C3%A9+Kauany" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&color=4B0082&width=435&lines=Oi%2C+meu+nome+%C3%A9+Kauany" alt="Typing SVG" />
 </div>
 
 <br>
@@ -20,14 +20,17 @@
 
 </div>
 
-<img align="right" height="470" src="https://imgur.com/gallery/neko-MrDWrDj#kWNoYzh"/>
-
 <div align="center">
-  [![Gmail](https://img.shields.io/badge/gmail-4B0082?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:kauany.m.dantas@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-4B0082?style=for-the-badge&logo=Instagram&logoColor=fff)](https://www.instagram.com/kauanymiiranda/)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-4B0082?style=for-the-badge&logo=LinkedIn&logoColor=fff)]((https://www.linkedin.com/in/kauany-miranda-dantas-110b74287)
-)
-
+  <a href="mailto:kauany.m.dantas@gmail.com">
+    <img src="https://img.shields.io/badge/gmail-4B0082?style=for-the-badge&logo=gmail&logoColor=fff" />
+  </a>
+  <a href="https://www.instagram.com/kauanymiiranda/">
+    <img src="https://img.shields.io/badge/Instagram-4B0082?style=for-the-badge&logo=Instagram&logoColor=fff" />
+  </a>
+  <a href="https://www.linkedin.com/in/kauany-miranda-dantas-110b74287">
+    <img src="https://img.shields.io/badge/LinkedIn-4B0082?style=for-the-badge&logo=LinkedIn&logoColor=fff" />
+  </a>
+  
 </div>
 
 <div align="center" style="display: inline_block"><br>
@@ -53,6 +56,10 @@
 <br>
 <br>
 
+<img align="right" height="470" src="https://i.imgur.com/kWNoYzh.png"/>
+
+<br>
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" width="100" />
 </div>
@@ -61,21 +68,5 @@
 <br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=4B0082&section=footer"/>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
