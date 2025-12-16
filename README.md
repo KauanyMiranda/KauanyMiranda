@@ -4,7 +4,7 @@
   <p>Algo</p>
 </div>
 
-<div align="center" widh="100%">
+<div align="center" width="100%">
   <img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&color=4B0082&width=435&lines=Oi%2C+meu+nome+%C3%A9+Kauany" alt="Typing SVG" />
 </div>
 
@@ -15,17 +15,18 @@
   | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KauanyMiranda&theme=jolly) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KauanyMiranda&theme=jolly) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KauanyMiranda&theme=jolly&utcOffset=8) | 
 | :-: | :-: | :-: |
 
-  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KauanyMiranda&theme=jolly) | [![](http://github-readme-streak-stats.herokuapp.com?user=KauanyMiranda&theme=jolly&hide_border=true)](https://git.io/streak-stats) |
+  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KauanyMiranda&theme=jolly) | [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KauanyMiranda&theme=jolly&hide_border=true)](https://git.io/streak-stats) |
 | :-: | :-: |
 
 </div>
 
-<img align="rigth" heigth="470" src="https://imgur.com/gallery/neko-MrDWrDj#kWNoYzh"/>
+<img align="right" height="470" src="https://imgur.com/gallery/neko-MrDWrDj#kWNoYzh"/>
 
 <div align="center">
   [![Gmail](https://img.shields.io/badge/gmail-4B0082?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:kauany.m.dantas@gmail.com)
   [![Instagram](https://img.shields.io/badge/Instagram-4B0082?style=for-the-badge&logo=Instagram&logoColor=fff)](https://www.instagram.com/kauanymiiranda/)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-4B0082?style=for-the-badge&logo=LinkedIn&logoColor=fff)](www.linkedin.com/in/kauany-miranda-dantas-110b74287)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-4B0082?style=for-the-badge&logo=LinkedIn&logoColor=fff)]((https://www.linkedin.com/in/kauany-miranda-dantas-110b74287)
+)
 
 </div>
 
