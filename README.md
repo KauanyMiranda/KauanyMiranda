@@ -15,7 +15,7 @@
   | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KauanyMiranda&theme=jolly) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KauanyMiranda&theme=jolly) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KauanyMiranda&theme=jolly&utcOffset=8) | 
 | :-: | :-: | :-: |
 
-  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KauanyMiranda&theme=jolly) | [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KauanyMiranda&theme=jolly&hide_border=true)](https://git.io/streak-stats) |
+  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KauanyMiranda&theme=jolly) | [![](http://github-readme-streak-stats.herokuapp.com?user=KauanyMiranda&theme=jolly&hide_border=true)](https://git.io/streak-stats) |
 | :-: | :-: |
 
 </div>
