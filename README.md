@@ -1,11 +1,11 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=4B0082"/>
 
 <div align="center">
-  <p>Algo</p>
+  <p>セレンディピティ</p>
 </div>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&color=4B0082&width=435&lines=Oi%2C+meu+nome+%C3%A9+Kauany" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&color=4B0082&width=487&lines=Oi%2C+meu+nome+%C3%A9+Kauany!;Estudo+An%C3%A1lise+e+Desenvolvimento+de+Sistemas!;Bem+Vindo!" alt="Typing SVG" />
 </div>
 
 <br>
@@ -15,8 +15,8 @@
   | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KauanyMiranda&theme=jolly) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KauanyMiranda&theme=jolly) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KauanyMiranda&theme=jolly&utcOffset=8) | 
 | :-: | :-: | :-: |
 
-  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KauanyMiranda&theme=jolly) | [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KauanyMiranda&theme=jolly&hide_border=true)](https://git.io/streak-stats) |
-| :-: | :-: |
+  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KauanyMiranda&theme=jolly) |
+| :-: | 
 
 </div>
 
@@ -56,9 +56,6 @@
 <br>
 <br>
 
-<img align="right" height="470" src="https://i.imgur.com/kWNoYzh.png"/>
-
-<br>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" width="100" />
